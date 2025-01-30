@@ -27,9 +27,8 @@
 
 ## 🏆 GitHub Stats
 
-![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket-Nadkarni&show_icons=true&theme=radical)  
+![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket-Nadkarni&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket-Nadkarni&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=Sanket-Nadkarni&color=blue)
 
 ---
 
