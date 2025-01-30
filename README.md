@@ -27,7 +27,6 @@
 
 ## 🏆 GitHub Stats
 
-![Sanket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sanket1815&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket1815&layout=compact&theme=radical)
 
 ---
